@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "오랜만에 뚝딱뚝딱"
-date:   2024-03-18 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "불로기"
+date:   2023-03-23 15:35:36 +0530
+categories: 일상 생각
 ---
-이얏호 블로그 만들기 성공 ~ 오늘 할 일 너무 없어서 만들어봤음
+오랜만에 뚝딱뚝딱 구글링하고 복붙하고 영어 몇자 쳐서 블로기를 만들었다 야호 ~
 
 ```javascript
 const Razorpay = require('razorpay');
